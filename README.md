@@ -11,7 +11,7 @@ I'm just a programmer who likes pizza and corridos tumbados but that's off-topic
 
 ---
 
-### Stack
+### 🌼 🌵 My stack
 
 <img src="https://res.cloudinary.com/marcomadera/image/upload/v1615174792/Blog/Code%20Snippets%20en%20VSCode/Vscode_Logo_kw0vrw.png" align="left" height="26px" title="VS Code">
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" align="left" height="26px" title="Figma">
