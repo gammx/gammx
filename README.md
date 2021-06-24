@@ -1,4 +1,13 @@
-### Hi there 👋
+### 🌈 ✌🏻 Ayo, It's gamma
+
+I'm just a programmer who likes pizza and corridos tumbados but that's off-topic
+
+- ✨ She/her
+- 🎨 A design lover
+- 💅 Working on https://alessa.vercel.app
+- 💞 Currently working with Python & JavaScript
+- 👩‍💻 Playing with NestJS
+- ⚡ *Haciéndolo fino, haciéndolo mejor*
 
 <!--
 **gammx/gammx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
