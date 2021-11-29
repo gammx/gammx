@@ -4,7 +4,7 @@ I'm just a programmer who likes pizza and corridos tumbados but that's off-topic
 
 - ✨ She/her
 - 🎨 A design lover
-- 💅 Working on https://kylie.vercel.app
+- 💅 Working on @wearesauna
 - 💞 Currently working with Python & JavaScript
 - 👩‍💻 Playing with NestJS
 - ⚡ *Haciéndolo fino, haciéndolo mejor*
