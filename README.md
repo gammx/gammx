@@ -1,13 +1,11 @@
-### 🌈 ✌🏻 Ayo, It's gamma
-
-I'm just a programmer who likes pizza and corridos tumbados but that's off-topic
+### 🌈 ✌🏻 ayo my name is Gamma
+YET ANOTHER trans girl who likes to code. I love pizza and corridos tumbados.
 
 - ✨ She/her
 - 🎨 A design lover
 - 💅 Working on @wearesauna
-- 💞 Currently working with Python & JavaScript
-- 👩‍💻 Playing with NestJS
-- ⚡ *Haciéndolo fino, haciéndolo mejor*
+- 💞 I love Vue/Nuxt but rn I'm working with React/Next
+- ⚡ Web3 enthusiast
 
 ---
 
@@ -35,18 +33,3 @@ I'm just a programmer who likes pizza and corridos tumbados but that's off-topic
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" align="left" height="26px" title="Mongo DB">
 <img src="https://appmasters.io/static/graphql-logo-d224cc270a335d905733408bee6abf4e.png" align="left" height="26px" title="Graph QL">
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="26px" title="Socket.io">
-
-<!--
-**gammx/gammx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
