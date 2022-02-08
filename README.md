@@ -36,3 +36,6 @@
 <a target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-black.svg?logo=nestjs&style=for-the-badge&logoColor=E0234E"/></a>
 <a target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-black.svg?logo=vue.js&style=for-the-badge&logoColor=4FC08D"/></a>
 <a target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-black.svg?logo=redux&style=for-the-badge&logoColor=764ABC"/></a>
+---
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=gammx&hide_prs=true&hide=prs,stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,5ed9ff,5e7eff,a45eff,ff5ebf&theme=graywhite" />
