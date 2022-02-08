@@ -1,35 +1,38 @@
-### 🌈 ✌🏻 ayo my name is Gamma
-YET ANOTHER trans girl who likes to code. I love pizza and corridos tumbados.
+### ✌🏻 Ayo it's Gamma
 
-- ✨ She/her
-- 🎨 A design lover
 - 💅 Working on @wearesauna
-- 💞 I love Vue/Nuxt but rn I'm working with React/Next
 - ⚡ Web3 enthusiast
 
 ---
+### 💫 Favorite tools
+<a target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-black.svg?logo=figma&style=for-the-badge&logoColor=F24E1E"/></a>
+<a target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-black.svg?logo=notion&style=for-the-badge"/></a>
+<a target="_blank"><img alt="VsCode" src="https://img.shields.io/badge/VsCode-black.svg?logo=visualstudiocode&style=for-the-badge&logoColor=007ACC"/></a>
 
-### 🌼 🌵 My stack
+### 🐉 Current stack
+<a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black.svg?logo=javascript&style=for-the-badge&logoColor=yellow"/></a>
+<a target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black.svg?logo=typescript&style=for-the-badge&logoColor=3178C6"/></a>
+<a target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-black.svg?logo=node.js&style=for-the-badge&logoColor=339933"/></a>
+<a target="_blank"><img alt="Next" src="https://img.shields.io/badge/Next-black.svg?logo=next.js&style=for-the-badge"/></a>
+<a target="_blank"><img alt="React" src="https://img.shields.io/badge/React-black.svg?logo=react&style=for-the-badge"/></a>
+<a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-black.svg?logo=html5&style=for-the-badge&logoColor=E34F26"/></a>
+<a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-black.svg?logo=css3&style=for-the-badge&logoColor=1572B6"/></a>
+<a target="_blank"><img alt="Sass" src="https://img.shields.io/badge/Sass-black.svg?logo=sass&style=for-the-badge&logoColor=CC6699"/></a>
+<a target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black.svg?logo=graphql&style=for-the-badge&logoColor=E10098"/></a>
+<a target="_blank"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-black.svg?logo=apollographql&style=for-the-badge&logoColor=311C87"/></a>
+<a target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black.svg?logo=mongodb&style=for-the-badge&logoColor=47A248"/></a>
+<a target="_blank"><img alt="SocketIO" src="https://img.shields.io/badge/SocketIO-black.svg?logo=socket.io&style=for-the-badge"/></a>
+<a target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-black.svg?logo=jest&style=for-the-badge&logoColor=C21325"/></a>
+<a target="_blank"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-black.svg?logo=eslint&style=for-the-badge&logoColor=4B32C3"/></a>
+<a target="_blank"><img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-black.svg?logo=styledcomponents&style=for-the-badge&logoColor=DB7093"/></a>
+<a target="_blank"><img alt="Emotion" src="https://img.shields.io/badge/Emotion-black.svg?logo=emotioncss&style=for-the-badge&logoColor=DB7093"/></a>
+<a target="_blank"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-black.svg?logo=zustand&style=for-the-badge&logoColor=DB7093"/></a>
 
-<img src="https://res.cloudinary.com/marcomadera/image/upload/v1615174792/Blog/Code%20Snippets%20en%20VSCode/Vscode_Logo_kw0vrw.png" align="left" height="26px" title="VS Code">
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" align="left" height="26px" title="Figma">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" align="left" height="26px" title="Photoshop">
-<img src="https://static.wikia.nocookie.net/logopedia/images/e/e2/Logo-filmora-square.png/revision/latest?cb=20170916163417" align="left" height="26px" title="Filmora">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" align="left" width="26px" title="Python">
-<img src="https://image.flaticon.com/icons/png/512/732/732212.png" align="left" height="26px" title="HTML">
-<img src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" align="left" height="26px" title="CSS">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" align="left" height="26px" title="JavaScript">
-<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" align="left" height="26px" title="TypeScript">
-<img src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png" align="left" height="26px" title="Node JS">
-<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" align="left" height="26px" title="Nest JS">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" align="left" height="26px" title="Vue JS">
-<img src="https://develop365.gitlab.io/nuxtjs-1.4.0-doc/fr/logos/nuxt-square.svg" align="left" height="26px" title="Nuxt JS">
-<img src="https://adratech.app/icons/php.png" align="left" height="26px" title="PHP">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="left" height="26px" title="Laravel">
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" align="left" height="26px" title="Sass">
-<img src="https://vuesax.com/vuesax-only-b.png" align="left" height="26px" title="Vuesax">
-<img src="https://bestofjs.org/logos/vuetify.svg" align="left" height="26px" title="Vuetify">
-<img src="https://www.soylibre.com/wp-content/uploads/Mysql-dolphin-square.svg_.png" align="left" height="26px" title="MySQL">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" align="left" height="26px" title="Mongo DB">
-<img src="https://appmasters.io/static/graphql-logo-d224cc270a335d905733408bee6abf4e.png" align="left" height="26px" title="Graph QL">
-<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="26px" title="Socket.io">
+### 🦭 Also have worked with these
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=3776AB"/></a>
+<a target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-black.svg?logo=php&style=for-the-badge&logoColor=777BB4"/></a>
+<a target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black.svg?logo=laravel&style=for-the-badge&logoColor=FF2D20"/></a>
+<a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black.svg?logo=mysql&style=for-the-badge&logoColor=4479A1"/></a>
+<a target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-black.svg?logo=nestjs&style=for-the-badge&logoColor=E0234E"/></a>
+<a target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-black.svg?logo=vue.js&style=for-the-badge&logoColor=4FC08D"/></a>
+<a target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-black.svg?logo=redux&style=for-the-badge&logoColor=764ABC"/></a>
