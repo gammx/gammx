@@ -39,5 +39,3 @@
 ---
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=gammx&hide_prs=true&hide=prs,stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,5ed9ff,5e7eff,a45eff,ff5ebf&theme=graywhite" />
-
-<img alt="Github contrib" width="580" src="https://raw.githubusercontent.com/gammx/gammx/46d55f5a106f67506a7f3311a6b59f773cf7efca/profile-3d-contrib/profile-night-rainbow.svg" />
